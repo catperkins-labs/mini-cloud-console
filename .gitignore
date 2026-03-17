@@ -1,0 +1,12 @@
+# .NET build artifacts
+api/**/bin/
+api/**/obj/
+
+# Frontend build artifacts & dependencies
+web/node_modules/
+web/dist/
+
+# Environment files
+.env
+web/.env.local
+web/.env.*.local

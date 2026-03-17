@@ -1,0 +1,6 @@
+@MiniCloudConsole.Api_HostAddress = http://localhost:5204
+
+GET {{MiniCloudConsole.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
